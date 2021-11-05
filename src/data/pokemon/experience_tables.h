@@ -14,7 +14,7 @@
      (n <= 15) ? (((n + 1) / 3 + 24) * CUBE(n) / 50)        \
     :(n <= 36) ? ((n + 14)           * CUBE(n) / 50)        \
     :            (((n / 2) + 32)     * CUBE(n) / 50)
-#define EXP_RAT(n)((10 * n)) // ok stupid
+#define EXP_RAT(n)((10 * n)) // This works
 const u32 gExperienceTables[][MAX_LEVEL + 1] =
 {
     { // Medium Fast
