@@ -1,11 +1,6 @@
-# Pokémon FireRed and LeafGreen
-
-[![Build Status][travis-badge]][travis]
-
-[travis]: https://travis-ci.org/pret/pokefirered
-[travis-badge]: https://travis-ci.org/pret/pokefirered.svg?branch=master
-
-This is a disassembly of Pokémon FireRed and LeafGreen.
+RatRed
+It's a basic testing ROM for custom exp curves. Currently 1 is implemented for Rattata and Raticate. As well as this, the route 1 mart clerk gives away a Master Ball so Rattata can be
+caught as soon as possible
 
 It builds the following ROMs:
 
