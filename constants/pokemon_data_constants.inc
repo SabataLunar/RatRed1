@@ -30,7 +30,7 @@
 	.set GROWTH_MEDIUM_SLOW, 0x03
 	.set GROWTH_FAST,        0x04
 	.set GROWTH_SLOW,        0x05
-	.set GROWTH_RAT,         0x06
+	.set GROWTH_RAT,         0x06 @This is where the new curve is stored, it's the 7th in both lists
 
 	.set EGG_GROUP_NONE,         0x00
 	.set EGG_GROUP_MONSTER,      0x01

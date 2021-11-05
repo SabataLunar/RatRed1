@@ -272,7 +272,7 @@ enum
     GROWTH_MEDIUM_SLOW,
     GROWTH_FAST,
     GROWTH_SLOW,
-    GROWTH_RAT
+    GROWTH_RAT //This is another place to update when adding new curves
 };
 
 enum
